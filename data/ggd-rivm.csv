@@ -1,0 +1,16 @@
+gemeente_code,gemeente_naam,aantal_inwoners,aantal_positief_getest,aantal_ziekenhuisopnames,prevalentie_positief_getest,prevalentie_ziekenhuisopnames,timestamp_ggd,timestamp_rivm
+GM0613,Albrandswaard,25589,42,5,164,19.5,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM0489,Barendrecht,48713,50,21,102,43.1,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM0501,Brielle,17282,20,7,115,40.5,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM0502,Capelle aan den IJssel,67151,103,27,153,40.2,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM1924,Goeree-Overflakkee,50049,183,39,109,77.9,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM0530,Hellevoetsluis,40158,33,8,82,19.9,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM0542,Krimpen aan den IJssel,29533,29,5,98,16.9,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM1621,Lansingerland,62396,92,26,147,41.7,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM0556,Maassluis,33216,27,12,81,36.1,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM1930,Nissewaard,85237,73,25,85,29.3,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM0597,Ridderkerk,46204,56,27,121,58.4,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM0599,Rotterdam,651376,805,211,123,32.4,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM0606,Schiedam,78739,56,27,71,34.3,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM0622,Vlaardingen,73445,74,22,100,30.0,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
+GM0614,Westvoorne,14728,20,5,135,33.9,"7 april,  14.00 uur",Wijzigingsdatum 08-04-2020 | 07:40
